@@ -1,4 +1,4 @@
-# Brain-Tumors-Image-Classification
+# Brain-Tumors-Image-Classification (EDITED)
 Brain tumor detection using convolutional neural networks and transfer learning. Training and testing the models with Adam and RMSprop optimizers, a number of 64
 and 128 batches, and for transfer learning three different architecture models were used. The three architecture models are MobileNetV2, VGG19, and ResNet101V2. 
 
